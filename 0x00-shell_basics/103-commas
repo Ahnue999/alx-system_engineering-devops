@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mc
+ls -mcaF
