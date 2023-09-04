@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/ssh/shhd_config | grep [:alpha:]*
